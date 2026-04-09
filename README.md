@@ -6,7 +6,6 @@ This paper has been accepted by IEEE Trans. Multimedia, and we will release the 
 <img width="893" height="455" alt="image" src="https://github.com/user-attachments/assets/0e048f12-8250-41c8-9a82-a61b294e83ce" />
 
 ## Results
-<img width="1065" height="457" alt="image" src="https://github.com/user-attachments/assets/b7203c15-8182-4e0a-84f3-83afa32ebcf5" />
 
 <img width="1245" height="259" alt="image" src="https://github.com/user-attachments/assets/cad62187-a9ad-4af8-a37f-a8bb127a942a" />
 
